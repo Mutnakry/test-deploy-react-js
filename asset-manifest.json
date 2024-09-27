@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Mutnakry/test-deploy-react-js/static/css/main.e6c13ad2.css",
+    "main.js": "/Mutnakry/test-deploy-react-js/static/js/main.a30cdc84.js",
+    "static/js/453.f97f81ed.chunk.js": "/Mutnakry/test-deploy-react-js/static/js/453.f97f81ed.chunk.js",
+    "index.html": "/Mutnakry/test-deploy-react-js/index.html",
+    "main.e6c13ad2.css.map": "/Mutnakry/test-deploy-react-js/static/css/main.e6c13ad2.css.map",
+    "main.a30cdc84.js.map": "/Mutnakry/test-deploy-react-js/static/js/main.a30cdc84.js.map",
+    "453.f97f81ed.chunk.js.map": "/Mutnakry/test-deploy-react-js/static/js/453.f97f81ed.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.e6c13ad2.css",
+    "static/js/main.a30cdc84.js"
+  ]
+}
